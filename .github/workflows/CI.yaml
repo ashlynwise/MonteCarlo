@@ -9,11 +9,7 @@ on:
   pull_request:
     branches:
       - "main"
-  schedule:
-    # Weekly tests run on main by default:
-    #   Scheduled workflows run on the latest commit on the default or base branch.
-    #   (from https://help.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events-schedule)
-    - cron: "0 0 * * 0"
+
 
 jobs:
   test:
@@ -72,7 +68,7 @@ jobs:
 
          - name: Run tests
 
-   # conda setup requires this special shell
+# conda setup requires this special shell
    shell: bash -l {0}
 
     run: |
