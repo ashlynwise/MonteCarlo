@@ -1,8 +1,9 @@
 qs_pythonpackage
 ==============================
 [//]: # (Badges)
+[![codecov](https://codecov.io/gh/ashlynwise/MonteCarlo/graph/badge.svg?token=eQuER8Oyqp)](https://codecov.io/gh/ashlynwise/MonteCarlo)
 [![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/MonteCarlo/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/MonteCarlo/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/qs_pythonpackage/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/qs_pythonpackage/branch/main)
+
 
 
 Python package for Quantum Software class.
