@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 
+>>>>>>> d400a29 (attempt)
 import numpy as np
 import math             
 
