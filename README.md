@@ -3,8 +3,7 @@ qs_pythonpackage
 [//]: # (Badges)
 [![codecov](https://codecov.io/gh/ashlynwise/MonteCarlo/graph/badge.svg?token=eQuER8Oyqp)](https://codecov.io/gh/ashlynwise/MonteCarlo)
 ![GitHub CI](https://github.com/dwyl/auth_plug/actions/workflows/CI.yml/badge.svg)
-
-[![GitHub Actions Build Status](https://github.com/ashlynwise/MonteCarlo/workflows/CI/badge.svg)]
+[![Documentation Status](https://readthedocs.org/projects/montecarlo-ashlynw/badge/?version=latest)](https://montecarlo-ashlynw.readthedocs.io/en/latest/?badge=latest)
 
 
 
