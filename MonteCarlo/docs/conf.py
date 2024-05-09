@@ -53,6 +53,9 @@ extensions = [
     'sphinx_design',
     'sphinx_copybutton',    
 ]
+autoapi_dirs = ['../MonteCarlo']
+autoapi_ignore = ["*/tests/*",
+                  "*_version.py"]
 
 
 autosummary_generate = True
