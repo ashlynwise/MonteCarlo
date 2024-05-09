@@ -69,3 +69,11 @@ jobs:
         uses: codecov/codecov-action@v4.0.1
         with:
         token: ${{ secrets.CODECOV_TOKEN }}
+
+         - name: Run tests
+
+   # conda setup requires this special shell
+   shell: bash -l {0}
+
+    run: |
+      pytest -v --cov=molecool --cov-report=xml --color=yes molecool/tests/
