@@ -2,7 +2,8 @@ qs_pythonpackage
 ==============================
 [//]: # (Badges)
 [![codecov](https://codecov.io/gh/ashlynwise/MonteCarlo/graph/badge.svg?token=eQuER8Oyqp)](https://codecov.io/gh/ashlynwise/MonteCarlo)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/MonteCarlo/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/MonteCarlo/actions?query=workflow%3ACI)
+![GitHub CI](https://github.com/dwyl/auth_plug/actions/workflows/CI.yml/badge.svg)
+[![GitHub Actions Build Status](https://github.com/ashlynwise/MonteCarlo/workflows/CI/badge.svg)](https://github.com/ashlynwise/MonteCarlo/actions?query=workflow%3ACI)
 
 
 
